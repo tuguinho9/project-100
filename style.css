@@ -1,0 +1,12 @@
+.img {
+    width: 30%;
+    border-radius: 30px;
+}
+#fim {
+    border: solid;
+    background-color: yellow;
+    width: 100%;
+    bottom: 0px;
+    position: fixed;
+    text-align: center;
+    }
